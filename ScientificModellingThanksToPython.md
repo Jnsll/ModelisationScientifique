@@ -161,6 +161,18 @@ https://pypi.org/
 
 
 
+
+
+# Python IDE
+
+## IDLE
+- "Integrated Development and Learning Environment"
+- comes with the installation of Python
+
+## IPython
+
+
+
 # References
 
 - https://github.com/barais/modelisation_des_problemes_scientifiques/
@@ -169,4 +181,4 @@ https://pypi.org/
 
 
 # To go deeper / further : some more reading
- -
+ - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
