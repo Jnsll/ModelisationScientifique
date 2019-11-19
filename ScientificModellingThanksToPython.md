@@ -14,7 +14,9 @@
     - scientists usually does not have the expertise in SE.
 
 ### Teachers
-
+ - Luc Lesoil (luc.lesoil@irisa.fr)
+ - Laurent Morin (laurent.morin@inria.fr)
+ - June Sallou (june.benvegnu-sallou@irisa.fr)
 
 ### Organisation
 
