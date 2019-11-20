@@ -1,16 +1,4 @@
 
-# Introduction
-
-Scientific Modelling : 
-- representation of a physical system
-- model to learn about the reprensented system
-- using simulations (do not have info about the system, cannot have them or too expensive to have them, etc)
-- lots of data manipulated as input or output
-
-
-With the need to manipulate data, to simulate some system thanks to models, tools have been developped to help modellers and scientists.
-
-Tools have been implemented in several programming languages, but we will focus on using Python. Indeed, the scientific Python community is quite large and weel established. A lot of tools which are well and largly used have been implemented. Thoses tools are either some development tools or some library to carry out the different tasks.
 
 
 

@@ -1,17 +1,17 @@
 # Teaching
 
 ## Overview of the module
-### Goals
+### Goals / expectancies
 
-- Scientific modelling using more and more computers
-    - running simulations
-    - visualisation (graphs, maps)
-    - exploring (calibration, sensitivity analysis, etc)
-    - processing data (pre-processing, post-processing)
-
-- tools developped in SE for this
-    - helping scientists to model
-    - scientists usually does not have the expertise in SE.
+- Goals of the module
+    - understand the challenges of scientific modelling
+    - understand the need of SE in scientific modelling processes
+    - know that specific SE tools has been created to tackle those challenges and how they do so
+    - be able to write a working script in Python
+    - be able to use virtual environment
+    - be able to use a jupyter notebook
+    - be able to manipulate data and visualise them
+    - be able to distribute the computation of a Python algorithm
 
 ### Teachers
  - Luc Lesoil (luc.lesoil@irisa.fr) : Data Manipulation

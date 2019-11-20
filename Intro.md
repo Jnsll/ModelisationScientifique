@@ -10,6 +10,16 @@ With the need to manipulate data, to simulate some system thanks to models, tool
 
 Tools have been implemented in several programming languages, but we will focus on using Python. Indeed, the scientific Python community is quite large and weel established. A lot of tools which are well and largly used have been implemented. Thoses tools are either some development tools or some library to carry out the different tasks.
 
+- Scientific modelling using more and more computers
+    - running simulations
+    - visualisation (graphs, maps)
+    - exploring (calibration, sensitivity analysis, etc)
+    - processing data (pre-processing, post-processing)
+
+- tools developped in SE for this
+    - helping scientists to model
+    - scientists are not expected to have the expertise in SE.
+
 
 ## Slides
 
