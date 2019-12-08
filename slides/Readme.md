@@ -1,6 +1,7 @@
 # Links of the slides
 
 ## Overview of the module
+>> https://tinyurl.com/SciModelling
 
 
 ## Challenges of scientific modelling
