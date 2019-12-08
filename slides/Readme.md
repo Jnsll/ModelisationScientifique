@@ -3,12 +3,6 @@
 ## Overview of the module
 >> https://tinyurl.com/SciModelling
 
+## Challenges of Scientific modelling
 
-## Challenges of scientific modelling
-
-## Environments
-
-## Let's dive into Python(3)!
-
-## Further readings
-
+>> https://github.com/Jnsll/ModelisationScientifique/blob/master/slides/Challenges%20of%20SciModelling.pdf
