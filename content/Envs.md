@@ -52,7 +52,7 @@ relies on two seperate files :
 - pipfile.lock
     - real requirements.txt
 
-    pipfile + lock pipfile : use to regenerate env
+pipfile + lock pipfile : use to regenerate env
 
 - don't need to manipulate you pipfile > pipenv does it for you
 - combination of virtualenv + pip
