@@ -35,6 +35,7 @@
 
 - [Python doc about virtualenvs](https://docs.python-guide.org/dev/virtualenvs/)
 - [IPython - Getting Started](https://www.tutorialspoint.com/jupyter/ipython_getting_started.htm)
+- [Notebook on the Core Python Language](https://nbviewer.jupyter.org/github/rabernat/python_teaching/blob/master/one_day_workshop/01_core_python.ipynb)
 
 
 ## Practicals
