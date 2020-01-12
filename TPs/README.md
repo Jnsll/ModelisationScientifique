@@ -121,12 +121,12 @@ conda-forge jupyter_contrib_nbextensions`)
 
 ### Exercice 1: Base de python
 
-Récupérer le [fichier suivant](https://github.com/barais/modelisation_des_problemes_scientifiques/blob/master/TP1-introPython.ipynb) et rééxecuter l'ensemble des exemples de code fournis. Vérifier que vous les comprenez tous.
+Récupérer le [fichier suivant](https://github.com/Jnsll/ModelisationScientifique/blob/master/TPs/TP1-introPython.ipynb) et rééxecuter l'ensemble des exemples de code fournis. Vérifier que vous les comprenez tous.
 
 
 ### Exercice 2: Modélisation objet
 
-Récupérer le [fichier suivant](https://github.com/barais/modelisation_des_problemes_scientifiques/blob/master/TP2-PythonProg.ipynb) et rééxecuter l'ensemble des exemples de code fournis. Vérifier que vous les comprenez tous.
+Récupérer le [fichier suivant](https://github.com/Jnsll/ModelisationScientifique/blob/master/TPs/TP2-PythonProg.ipynb) et rééxecuter l'ensemble des exemples de code fournis. Vérifier que vous les comprenez tous.
 
 ### Exercice 3
 
