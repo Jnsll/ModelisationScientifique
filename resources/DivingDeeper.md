@@ -11,4 +11,4 @@ https://www.youtube.com/watch?v=7jiPeIFXb6U
 - [Magic methods](https://www.python-course.eu/python3_magic_methods.php)
 
 ### OOP
- - [OpenClassRoom Tutorial](https://openclassrooms.com/fr/courses/2818931-programmez-en-oriente-objet-avec-c/2818941-introduction-a-la-programmation-orientee-objet)
+ - [OpenClassRoom Python Tutorial](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/232721-apprehendez-les-classes)
