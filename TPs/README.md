@@ -150,6 +150,6 @@ Lors du premier tome de Harry Potter les trois héros doivent résoudre une éni
 
 ## Rendu
 
-Vous devez rendre les exercices 3 et 4 (et 5 en bonus) pour le (date à définir). Le rendu se fera via un dépôt Git (https://gitlab.istic.univ-rennes1.fr/) ou GitHub contenant un notebook (exercice 3) et un script python (exercice 4).
+Vous devez rendre les exercices `3` et `4` (et `5` en bonus) pour le `15/02 à 23:59 (Heure Française)`. Le rendu se fera via un dépôt Git (https://gitlab.istic.univ-rennes1.fr/) ou GitHub contenant un notebook (`Exercice 3`) et un script python (`Exercice 4`).
 Vous pouvez me mettre en contributeur pour le dépot Git (Gitlab : `jsallou`, GitHub : `Jnsll`).
 Pour tout information et me prévenir de votre rendu, vous pouvez me contacter par mail : `june.benvegnu-sallou@univ-rennes1.fr` ou `june.benvegnu-sallou@irisa.fr`.
