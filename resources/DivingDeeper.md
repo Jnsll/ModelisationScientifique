@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=7jiPeIFXb6U
 
 ### OOP
  - [OpenClassRoom Python Tutorial](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/232721-apprehendez-les-classes)
+
+## Notebooks
+- [An introduction to data science in Python, for people with no programming experience.](https://allendowney.github.io/ElementsOfDataScience/)
